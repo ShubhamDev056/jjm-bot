@@ -358,12 +358,15 @@ i.fa.fa-paper-plane {
 }
 
 body {
+  background: url("../public/banner.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
   font-family: Arial, sans-serif;
   font-size: 15px;
 }
 
 input {
-  font-family: "Open Sans", sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 strong {
